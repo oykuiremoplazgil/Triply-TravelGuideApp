@@ -1248,7 +1248,7 @@ class _PlacesListState extends State<PlacesList> {
   bool isLoading = false;
   List<Map<String, dynamic>> places = [];
   List<String> selectedPlaces = [];
-  final String apiKey = 'AIzaSyB7GAckIGv_2nxZP70LWMdehjyk3SnYhuc';
+  final String apiKey = 'x';
 
   @override
   void initState() {
